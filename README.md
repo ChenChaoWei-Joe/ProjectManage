@@ -4,10 +4,10 @@
 QiangAir(蔷鸸)投屏
 
 ###### 是什么?
-QiangAir是适用于 Windows 和 MAC 的 AirPlay 接收器。您可以将 iPhone 或 iPad 上的任何内容投射到电脑屏幕上。
+QiangAir是适用于 Windows 的 AirPlay 接收器。您可以将 iPhone 或 iPad 上的任何内容投射到电脑屏幕上。
 
 ###### 要使用 QiangAir， iPhone/iPad 上安装什么应用程序？
-无。您无需在 iPhone/iPad 上安装任何东西。您只需要在 Windows 或 Mac 上安装 QiangAir
+无。您无需在 iPhone/iPad 上安装任何东西。您只需要在 Windows 上安装 QiangAir
 
 ###### QiangAir， 是否支持 airplay 镜像？
 是的。您可以通过 QiangAir， 将 iPhone/iPad 屏幕镜像投射到计算机上。您还可以通过 QiangAir， 将电影和音乐投射到 Windows。
