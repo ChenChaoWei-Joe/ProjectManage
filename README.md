@@ -15,7 +15,7 @@ QiangAir是适用于 Windows 的 AirPlay 接收器。您可以将 iPhone 或 iPa
 ###### 如何安装 QiangAir？
 1.下载QiangAir，安装程序并安装
 
-<a href="https://gitee.com/chenchaowei-joe/project-manage/releases/download/QiangAir-v0.0.2/QiangAir-0.0.2-Setup.exe">单击此处下载适用于 Windows 64Bit 的安装程序</a>
+<a href="https://github.com/ChenChaoWei-Joe/ProjectManage/releases/download/QiangAir-v0.0.3/QiangAir-0.0.3-Setup.exe">单击此处下载适用于 Windows 64Bit 的安装程序</a>
 
 2.运行
 
