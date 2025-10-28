@@ -1,6 +1,16 @@
 [
     {
         "app_name": "QiangAir",
+        "latest_version": "0.0.3",
+        "tag": "QiangAir-v0.0.3",
+        "prerelease": false,
+        "file_name": "QiangAir-0.0.3-Setup.exe",
+        "file_size": 74013330,
+        "sha256": "442498dfb885f7fbde0cdb1a794bdf1e41604bb13f688fa1bff09b20b40ec9cc",
+        "body": "优化用户体验，修复已知问题"
+    },
+    {
+        "app_name": "QiangAir",
         "latest_version": "0.0.2",
         "tag": "QiangAir-v0.0.2",
         "prerelease": false,
