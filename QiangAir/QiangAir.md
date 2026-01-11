@@ -19,8 +19,8 @@
 
 ### 如何开始使用？ 
 1. 下载：
-    - [国内下载](https://gitee.com/chenchaowei-joe/project-manage/releases/download/QiangAir-v0.0.3/QiangAir-0.0.3-Setup.exe)
-    - [国外下载](https://github.com/ChenChaoWei-Joe/ProjectManage/releases/download/QiangAir-v0.0.3/QiangAir-0.0.3-Setup.exe)
+    - [国内下载](https://gitee.com/chenchaowei-joe/project-manage/releases/download/QiangAir-v0.0.4/QiangAir-0.0.4-Setup.exe)
+    - [国外下载](https://github.com/ChenChaoWei-Joe/ProjectManage/releases/download/QiangAir-v0.0.4/QiangAir-0.0.4-Setup.exe)
 2. 安装：双击安装包，遵循提示完成安装（没有苹果DNS服务的会提示安装）。
 3. 运行：在PC上启动【QiangAir】。
 4. 投屏：在你的iPhone上滑出控制中心 -> 点击‘屏幕镜像’ -> 选择你的电脑名称。搞定！
