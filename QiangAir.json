@@ -1,6 +1,16 @@
 [
     {
         "app_name": "QiangAir",
+        "latest_version": "1.0.0",
+        "tag": "QiangAir-GitHub-v1.0.0",
+        "prerelease": false,
+        "file_name": "QiangAir-1.0.0-Setup.exe",
+        "file_size": 75367243,
+        "sha256": "18c516d03295b001e09b9300c5206f005ea9931b6ecc776c10c24bcd0bd23f71",
+        "body": "增加录屏功能，独立mDNSResponder服务"
+    },
+    {
+        "app_name": "QiangAir",
         "latest_version": "0.0.5",
         "tag": "QiangAir-GitHub-v0.0.5",
         "prerelease": false,
