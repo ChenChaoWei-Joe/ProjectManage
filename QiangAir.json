@@ -7,7 +7,7 @@
         "file_name": "QiangAir-1.0.0-Setup.exe",
         "file_size": 75367243,
         "sha256": "18c516d03295b001e09b9300c5206f005ea9931b6ecc776c10c24bcd0bd23f71",
-        "body": "优化用户体验，增加独立窗口显示"
+        "body": "增加录屏功能，独立mDNSResponder服务"
     },
     {
         "app_name": "QiangAir",
