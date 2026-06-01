@@ -5,8 +5,8 @@
         "tag": "QiangAir-v1.0.0",
         "prerelease": false,
         "file_name": "QiangAir-1.0.0-Setup.exe",
-        "file_size": 75367243,
-        "sha256": "18c516d03295b001e09b9300c5206f005ea9931b6ecc776c10c24bcd0bd23f71",
+        "file_size": 76329393,
+        "sha256": "a4107516f7381abd86b04870b42bac6fb108cc2f033f8144125d67b6622d0af6",
         "body": "增加录屏功能，独立mDNSResponder服务"
     },
     {
